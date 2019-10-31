@@ -13,5 +13,11 @@
     "scripts": [
       "scripts/background.js"
     ]
-  }
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "tabs",
+    "https://www.youtube.com/*"
+  ]
 }

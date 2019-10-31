@@ -1,6 +1,6 @@
 # Youtube TV User Agent Spoof
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Grants access to the Youtube Web TV interface by spoofing browser user agent string
 
 ## Install
 

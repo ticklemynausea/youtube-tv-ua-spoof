@@ -4,11 +4,11 @@
     "description": "The name of the application"
   },
   "appShortName": {
-    "message": "yt-tv-ua-spoof",
+    "message": "yt_tv_ua_spoof",
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "message": "Grants access to the Youtube Web TV interface by spoofing browser user agent string",
     "description": "The description of the application"
   }
 }
